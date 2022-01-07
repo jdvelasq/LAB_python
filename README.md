@@ -1,3 +1,3 @@
-# Laboratiorio
+# Laboratorio
 
-Programación básica en Python
+Programación Básica en Python
